@@ -16,6 +16,8 @@ The data is avaliable at [here](https://drive.google.com/file/d/1_LUDLXFCQq2G8Ff
 ```src``` folder contains scripts (and helper scripts) to run ```SEG``` and ```REG``` methods <br>
 NOTE: change ```path``` variable in the script to math your project structure accordingly.
 
+```jsw.py``` file is the initial JSW measurment algorithm Ray passed to me. Safe to delete.
+
 ```measurements``` folder contains all the JSW measurement from different methods:
 - ```reg```: Predicted JSW measurements from ml model
   - ```center```: passing whole joints to the model
